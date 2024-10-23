@@ -1,0 +1,15 @@
+{
+    "[python]": {
+        "editor.formatOnPaste": false,
+        "editor.formatOnSaveMode": "file",
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "charliermarsh.ruff", // "ms-python.black-formatter"
+        "editor.codeActionsOnSave": {
+            "source.organizeImports.ruff": "explicit"
+            // "source.fixAll": "explicit"
+        }
+    },
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": true,
+    "search.quickOpen.history.filterSortOrder": "recency"
+}
